@@ -1,7 +1,7 @@
 ---
 title: "Blog: Update to Hugo"
 date: 2020-01-05T18:05:29+01:00
-draft: true
+draft: false
 ---
 
 I've replaced the static blogging engine of this blog. The previous blogging engine
