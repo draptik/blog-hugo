@@ -1,7 +1,7 @@
 baseURL = "https://draptik.github.io/"
 languageCode = "en-us"
 title = "draptik"
-theme = "ananke"
+theme = "hyde-hyde"
 
 ## Hugo Built-in Features
 disqusShortname = "draptik"
