@@ -1,6 +1,6 @@
 ---
 title: "Upcoming & Previous Talks"
-draft: true
+draft: false
 ---
 
 ## 2019
