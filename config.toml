@@ -1,0 +1,60 @@
+baseURL = "https://draptik.github.io/"
+languageCode = "en-us"
+title = "draptik"
+theme = "ananke"
+
+## Hugo Built-in Features
+disqusShortname = "draptik"
+googleAnalytics = "UA-65991503-1"
+summarylength = 30
+paginate = 5
+
+[params]
+    author = "Patrick Drechsler"
+    title = "draptik title"
+    description = "mostly tech stuff"
+    authorimage = "/images/ant.jpg"
+
+    # code highlighting
+    highlightjs = true
+    highlightjsstyle = "github"
+
+    rss = true
+    
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = false
+
+## Social Accounts
+[params.social]
+    github = "draptik"
+    # xing = "Patrick_Drechsler"
+    # linkedin = "patrick-drechsler-985a2911"
+    twitter = "drechsler"
+    email = "blog@pdrechsler.de"
+    # gravatar = "your-email@example.com"
+
+[[menu.main]]
+    identifier = "blog"
+    name = "posts"
+    title = "posts"
+    url = "/posts/"
+    weight = 110
+
+[[menu.main]]
+    identifier = "talks"
+    name = "talks"
+    title = "talks"
+    url = "/talks/"
+    weight = 120
+
+[[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about section"
+    url = "/about/"
+    weight = 130
+
+[permalinks]
+    posts = "/:section/:year/:month/:day/:slug"
+
