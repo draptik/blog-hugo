@@ -55,6 +55,13 @@ paginate = 5
     url = "/about/"
     weight = 130
 
+[[menu.main]]
+    identifier = "impressum"
+    name = "impressum"
+    title = "impressum"
+    url = "/impressum/"
+    weight = 140
+
 [permalinks]
     posts = "/:section/:year/:month/:day/:slug"
 
