@@ -1,0 +1,14 @@
+# ./.tmuxinator.yml
+
+name: blog
+root: .
+
+tmux_command: byobu
+
+windows:
+    - content:
+        layout: main-horizontal
+        panes:
+            - cd content && lc
+            - hugo server -D
+
