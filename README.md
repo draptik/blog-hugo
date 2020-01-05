@@ -9,4 +9,7 @@
 
 - add rss icon to sidebar
 - create docker container for hugo
+- improve code blocks
+    - auto-expand similar to hugo doc-pages
+    - syntax highlighting for fsharp code
 
