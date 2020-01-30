@@ -10,6 +10,8 @@ draft: false
 - Von C# zu F# - Einführung in die Funktionale Programmierung (1-day workshop with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Magdeburger Developer Days 2020](https://www.md-devdays.de/Act?id=1000229), May 11-13 2020
 - Modern Linux Command Line Tools
+  - [MATHEMA Campus 2020](https://www.mathema.de/veranstaltungen/mathema-campus), May 8 2020
+- Modern Linux Command Line Tools
   - [Hackerkegeln @ DATEV](https://hackerkegeln.de),
     Jan. 14 2020 ([slides & code](https://github.com/draptik/2020-01-modern-linux-command-line-tools))
 
