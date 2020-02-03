@@ -28,8 +28,8 @@ paginate = 5
 ## Social Accounts
 [params.social]
     github = "draptik"
-    # xing = "Patrick_Drechsler"
-    # linkedin = "patrick-drechsler-985a2911"
+    xing = "Patrick_Drechsler"
+    linkedin = "patrick-drechsler-985a2911"
     twitter = "drechsler"
     email = "blog@pdrechsler.de"
     # gravatar = "your-email@example.com"
