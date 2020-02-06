@@ -2,7 +2,7 @@
 title: "F#: Function Signature"
 slug: "Fsharp: Function Signature"
 date: 2020-02-05T08:54:33+01:00
-categories: ["f#", "domain-driven-design"]
+categories: ["fsharp", "domain-driven-design", "haskell"]
 draft: false
 ---
 
