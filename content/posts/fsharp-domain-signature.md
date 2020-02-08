@@ -8,7 +8,7 @@ draft: false
 
 I always forget how to write Haskell-like function signatures in F#.
 
-```fsharp
+``` fsharp
 type AddOne = int -> int
 let addOne : AddOne =
     fun i ->

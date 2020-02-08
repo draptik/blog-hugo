@@ -18,7 +18,8 @@ paginate = 5
     # code highlighting
     highlightjs = true
     highlightjsstyle = "github"
-
+    highlightjslanguages = ["fsharp", "java", "bash"]
+    
     rss = true
     
     license = "CC BY-SA 4.0"
