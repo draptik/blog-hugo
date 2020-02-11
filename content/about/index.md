@@ -6,6 +6,12 @@ draft: false
 My name is Patrick Drechsler.
 I'm a software developer.
 
+I care about
+
+- Software Crafting
+- Domain-Driven Design
+- Functional Programming
+
 In the past I've also spent some time in the field of biomechanics. If you're bored you can look at my thesis on how [insects and frogs cling to surfaces](http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/2293).
 
 ## This blog is...
