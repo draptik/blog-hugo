@@ -6,6 +6,8 @@ draft: false
 ## 2020
 
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
+  - [Karlsruher Entwickertag 2020](https://entwicklertag.de/karlsruhe/2020), May 27 2020
+- Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Magdeburger Developer Days 2020](https://www.md-devdays.de/Act?id=1000230), May 11-13 2020
 - Von C# zu F# - Einführung in die Funktionale Programmierung (1-day workshop with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Magdeburger Developer Days 2020](https://www.md-devdays.de/Act?id=1000229), May 11-13 2020
