@@ -129,7 +129,7 @@ This is where the Smart Constructor pattern comes into play:
 let UserName = private UserName of string
 
 module UserName =
-    let isValid s = !String.IsNullOrEmpty(s) && s.Length < 50
+    let isValid s = not (String.IsNullOrEmpty(s)) && s.Length < 50
 
     // smart constructor
     let create (str: string) =
