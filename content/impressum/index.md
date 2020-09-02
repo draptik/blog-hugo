@@ -5,8 +5,8 @@ title: "Impressum"
 #### Angaben gemäß § 5 TMG
 
 - Patrick Drechsler
-- Blumenstr. 7
-- 90762 Fürth
+- Am Hasensprung 4
+- 90766 Fürth
 
 Kontakt: 
 
