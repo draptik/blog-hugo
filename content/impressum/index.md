@@ -10,7 +10,6 @@ title: "Impressum"
 
 Kontakt: 
 
-- Telefon: 0123456789
 - E-Mail: blog@pdrechsler.de
 
 ##### Haftungsausschluss: 
