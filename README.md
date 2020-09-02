@@ -4,6 +4,8 @@
 - preview: `hugo server -D` (includes drafts)
 - build: `hugo` (don't forget to set `draft: false`)
 - deploy: `./deploy.sh` (automatically commits `public` folder to `master`)
+- git commit after deployment. This prevents stupid 'up' commits because 'public' folder changes
+  after executing `deploy` script.
 
 # Howto update hugo theme git submodule
 
