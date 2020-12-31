@@ -19,6 +19,14 @@ TLDR
 - update submodule: `git pull`
 - switch back to this folder and commit: `cd ../.. && git add . && git commit -m '...'`
 
+# Initial setup on new machine
+
+Clone repository including submodules:
+
+```sh
+git clone --recurse-submodules git://github.com/draptik/blog-hugo.git
+```
+
 # TODOs
 
 - add rss icon to sidebar
