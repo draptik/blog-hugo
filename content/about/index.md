@@ -4,7 +4,7 @@ draft: false
 ---
 
 My name is Patrick Drechsler.
-I'm a software developer. test
+I'm a software developer.
 
 I care about
 
