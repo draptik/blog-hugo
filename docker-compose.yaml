@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+
+  # build:
+  #   image: klakegg/hugo:0.80.0-alpine
+  #   volumes:
+  #     - ".:/src"
+
+  server:
+    image: klakegg/hugo:0.80.0-alpine
+    container_name: hugo-container
+    command: server
+    volumes:
+      - ".:/src"
+    ports:
+      - "1313:1313"

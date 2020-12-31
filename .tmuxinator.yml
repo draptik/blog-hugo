@@ -3,12 +3,10 @@
 name: blog
 root: .
 
-tmux_command: byobu
-
 windows:
     - content:
         layout: main-horizontal
         panes:
             - cd content && lc
-            - hugo server -D
-
+            - ./run-docker-compose-server-start.sh
+            - sleep 5; source run-attach-to-running-container.sh

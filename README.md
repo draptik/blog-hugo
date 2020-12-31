@@ -27,10 +27,29 @@ Clone repository including submodules:
 git clone --recurse-submodules git://github.com/draptik/blog-hugo.git
 ```
 
+# Docker
+
+Setup requires 
+
+- `docker`
+- `docker-compose`
+- `tmux` and `tmuxinator`
+
+Main script: `start-blog.sh`
+
+Helper scripts:
+
+- `.tmuxinator.yml` Creates a new tmux session with split panes containing content folder, active hugo server session in docker, and a shell within the hugo docker container.
+- `run-docker-compose-server-start.sh` Starts the hugo docker container
+- `run-docker-compose-server-stop.sh` Stops the hugo docker container
+- `run-attach-to-running-container.sh` Attaches to running hugo docker container
+- `run-hugo-shell.sh` Starts a new hugo docker container and runs interactive shell
+- `docker-compose.yaml` Config for docker-compose
+- `deploy.sh` Deployment script. Should be executed within docker container
+
 # TODOs
 
 - add rss icon to sidebar
-- create docker container for hugo
 - improve code blocks
     - auto-expand similar to hugo doc-pages
     - syntax highlighting for fsharp code
