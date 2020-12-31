@@ -1,5 +1,21 @@
 # Usage
 
+## TL/DR
+
+- `./start-blog.sh` Starts tmux
+  - top pane: this folder
+  - bottom left pane: hugo server session
+  - bottom right pane: shell within hugo docker container
+- all `hugo` commands must be executed in bottom right pane (attached live session in docker container)
+  - create new post: `hugo new posts/new-post.md`
+  - build: `hugo`
+- deploy:
+  - `./deploy.sh` (auto-commit in `public` folder -> this is the folder that gets published)
+  - git commit (this folder)
+
+
+# Usage (pre-docker - outdated)
+
 - create new post: `hugo new posts/new-post.md`
 - preview: `hugo server -D` (includes drafts)
 - build: `hugo` (don't forget to set `draft: false`)
@@ -25,7 +41,11 @@ Clone repository including submodules:
 
 ```sh
 git clone --recurse-submodules git://github.com/draptik/blog-hugo.git
+cd blog-hugo/public
+git pull
 ```
+
+The last seems to be needed, otherwise the `public` submodule is in detached head state. The `public` folder has to point to master. I'm sure there is a neater solution for this, but since we only have to do this once, it's ok.
 
 # Docker
 
@@ -53,4 +73,3 @@ Helper scripts:
 - improve code blocks
     - auto-expand similar to hugo doc-pages
     - syntax highlighting for fsharp code
-
