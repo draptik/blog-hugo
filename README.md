@@ -42,10 +42,12 @@ Clone repository including submodules:
 ```sh
 git clone --recurse-submodules git://github.com/draptik/blog-hugo.git
 cd blog-hugo/public
-git pull
+git pull # <-- !!
 ```
 
-The last seems to be needed, otherwise the `public` submodule is in detached head state. The `public` folder has to point to master. I'm sure there is a neater solution for this, but since we only have to do this once, it's ok.
+Pulling the `public` submodule seems to be needed, otherwise the `public` submodule is in detached
+head state. The `public` folder must point to `master`. I'm sure there is a better solution for this, 
+but since we only have to do this once, it's ok.
 
 # Docker
 
