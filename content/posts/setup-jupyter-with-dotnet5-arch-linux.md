@@ -1,6 +1,7 @@
 ---
 title: "How to setup Jupyter with dotnet 5 on Arch Linux in 2021"
 date: 2021-02-26T22:02:59Z
+categories: ["fsharp", "teaching", "dotnet", "linux", "arch linux", "jupyter"]
 draft: false
 ---
 
