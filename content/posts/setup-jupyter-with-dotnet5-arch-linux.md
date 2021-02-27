@@ -17,6 +17,8 @@ Terminology: "JupyterLab" seems to be the successor of "Jupyter Notebooks". See 
 
 I use [`yay`](https://github.com/Jguer/yay) as `pacman` wrapper. It also installs AUR packages.
 
+I also assume dotnet5 is already installed.
+
 - install Jupyter Lab: `yay -S jupyterlab`
     - check that jupyter is installed correctly: `jupyter kernelspec list` should output 
         `python3 <some-path>/python3`
