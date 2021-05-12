@@ -5,7 +5,7 @@ draft: false
 
 ## 2021
 
-- Von C# zu F# - Einführung in die Funktionale Programmierung (1-day workshop with [Martin Grotz](https://twitter.com/mobilgroma))
+- Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Magdeburger Developer Days 2021](https://www.md-devdays.de/Act?id=1000230), 🚧 Sep 2 or Sep 3 2021 (TBA)
 - 🚧 Modern Linux Command Line Tools (TBA)
   - [SCC@DATEV](https://ti.to/scc-datev/), Jun 17 2021
