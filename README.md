@@ -10,6 +10,8 @@
   - create new post: `hugo new posts/new-post.md`
   - build: `hugo`
 - deploy:
+  - TODO: The following steps work when executed manually, but don't work when called from script
+    (2021-05-12)
   - This has to be executed in the same folder as this README (NOT in the docker container) Didn't
     work out that well from the docker container....
   - `./deploy.sh` (auto-commit in `public` folder -> this is the folder that gets published)
