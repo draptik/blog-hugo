@@ -24,6 +24,8 @@ draft: false
   - [Hackerkegeln @ DATEV](https://hackerkegeln.de),
     Jan. 14 2020 ([slides & code](https://github.com/draptik/2020-01-modern-linux-command-line-tools))
 
+😷: Cancelled because of COVID
+
 ## 2019
 
 - Modern Linux Command Line Tools (co-moderated by [Frank Blendinger](https://twitter.com/yooogan))
