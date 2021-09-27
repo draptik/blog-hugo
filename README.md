@@ -17,6 +17,13 @@
   - `./deploy.sh` (auto-commit in `public` folder -> this is the folder that gets published)
   - git commit (this folder)
 
+### Updating talks page
+
+- `./start-blog.sh` Starts tmux
+- on host system, edit `content/talks`
+- in docker window (bottom-right in tmux): `hugo` to build
+- on host system: `./deploy.sh`
+- git commit and push when happy.
 
 # Usage (pre-docker - outdated)
 
