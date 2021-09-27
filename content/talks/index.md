@@ -7,7 +7,7 @@ draft: false
 
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Magdeburger Developer Days 2021](https://www.md-devdays.de/Act?id=1000230), Sep 3 2021
-    ([slides](https://mathema-gmbh.github.io/2021-09-magdeburger-devdays-fp-intro-csharp-fsharp/))
+    ([slides](https://mathema-gmbh.github.io/2021-09-magdeburger-devdays-fp-intro-csharp-fsharp/), [youtube-video](https://www.youtube.com/watch?v=MvVNAlclRfg))
 - Modern Linux Command Line Tools
   - [SCC@DATEV](https://ti.to/scc-datev/modern-linux-cli-tools), Jun 17 2021
 
