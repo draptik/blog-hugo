@@ -6,7 +6,7 @@ categories: ["fsharp", "testing", "xunit", ".NET", "test"]
 draft: false
 ---
 
-This posts showcases different ways of writing parameterized tests with [xUnit](https://xunit.net/) using F#.
+This post showcases different ways of writing parameterized tests with [xUnit](https://xunit.net/) using F#.
 
 I'm assuming you
 
