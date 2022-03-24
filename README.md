@@ -8,6 +8,7 @@
   - bottom right pane: shell within hugo docker container
 - all `hugo` commands must be executed in bottom right pane (attached live session in docker container)
   - create new post: `hugo new posts/new-post.md`
+  - in top pane: chmod 744 posts/new-post.md (otherwise the post is not editable on host system)
   - build: `hugo`
 - deploy:
   - TODO: The following steps work when executed manually, but don't work when called from script
