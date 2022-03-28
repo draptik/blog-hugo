@@ -189,6 +189,6 @@ If you have the chance: go for it!
 
 And if you have any tipps for me: I'm all ears!
 
-You can find my the configs described in this post at:
+You can find my configs described in this post at:
 https://github.com/draptik/dotfiles/tree/master/uhk-configs
 
