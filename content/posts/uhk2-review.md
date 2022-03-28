@@ -115,9 +115,9 @@ I don't need these keys often: No problem. (Mapped to `Mod+y`/`Mod+h` by default
 
 I don't need this key often: No problem. (Mapped to `Mod+[` by default)
 
-### Missing arrow keys and ins/del/home/del
+### Missing arrow keys and ins/del/home/end
 
-Not having arrow keys and ins/del/home/del is my main painpoint.
+Not having arrow keys and ins/del/home/end is my main painpoint.
 
 Having to press a modifier key to use these keys is ok when only navigating the cursor.
 
