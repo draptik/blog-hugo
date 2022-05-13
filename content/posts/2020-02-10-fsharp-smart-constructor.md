@@ -13,7 +13,7 @@ The "Smart Constructor" pattern allows us to create a type with F#. **With valid
 Here is the F# boiler plate needed to implement the [Value Object](https://en.wikipedia.org/wiki/Value_object) pattern.
 
 ``` fsharp
-let UserName = private UserName of string
+type UserName = private UserName of string
 
 module UserName =
     let isValid s = // ...
@@ -126,7 +126,7 @@ This is where the Smart Constructor pattern comes into play:
 
 ``` fsharp
 // type is private
-let UserName = private UserName of string
+type UserName = private UserName of string
 
 module UserName =
     let isValid s = not (String.IsNullOrEmpty(s)) && s.Length < 50
@@ -134,7 +134,7 @@ module UserName =
     // smart constructor
     let create (str: string) =
         if isValid str then
-            Some UserName str
+            Some (UserName str)
         else
             None
 
@@ -156,3 +156,5 @@ match UserName.create someString with
 We can now decide if we want to create another Smart Constructor for the `ValidPerson` type or some other type of pipeline (f.ex. "applicative validation") or a combination of these strategies.
 
 But we have ensured that the type `UserName` **is always valid, so we don't ever have to check it again**.
+
+UPDATE 2022-05-13: Fix syntax error (replace `let` with `type`).Thanks Alex!
