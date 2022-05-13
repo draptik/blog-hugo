@@ -21,7 +21,7 @@ module UserName =
     // smart ctor
     let create (str: string) =
         if isValid str then
-            Some UserName str
+            Some (UserName str)
         else
             None
 
