@@ -3,6 +3,12 @@ title: "Upcoming & Previous Talks"
 draft: false
 ---
 
+## 2022
+
+- Modern Linux Command Line Tools
+  - [DevOps Camp 2022](https://devops-camp.de), Sep 25 2022
+  - Achievment unlocked: 2nd place in session-voting ;-)
+
 ## 2021
 
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
