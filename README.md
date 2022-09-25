@@ -2,15 +2,16 @@
 
 ## TL/DR
 
-- `./start-blog.sh` Starts tmux
+- START CONTAINER: `./start-blog.sh` Starts tmux
   - top pane: this folder
   - bottom left pane: hugo server session
   - bottom right pane: shell within hugo docker container
-- all `hugo` commands must be executed in bottom right pane (attached live session in docker container)
+- EDIT in top pane
+- COMPILE: all `hugo` commands must be executed in bottom right pane (attached live session in docker container)
   - create new post: `hugo new posts/new-post.md`
   - in top pane: chmod 744 posts/new-post.md (otherwise the post is not editable on host system)
   - build: `hugo`
-- deploy:
+- DEPLOY:
   - TODO: The following steps work when executed manually, but don't work when called from script
     (2021-05-12)
   - This has to be executed in the same folder as this README (NOT in the docker container) Didn't
