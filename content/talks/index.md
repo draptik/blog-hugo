@@ -7,7 +7,7 @@ draft: false
 
 - Modern Linux Command Line Tools
   - [DevOps Camp 2022](https://devops-camp.de), Sep 25 2022
-  - Achievment unlocked: 2nd place in session-voting ;-)
+  - Achievement unlocked: 2nd place in session-voting ;-)
 
 ## 2021
 
