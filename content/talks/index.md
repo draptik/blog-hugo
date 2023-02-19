@@ -3,6 +3,13 @@ title: "Upcoming & Previous Talks"
 draft: false
 ---
 
+## 2023
+
+- Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
+  - [Developer Week 2023 (DWX)](https://www.developer-week.de/), TBA, Jun 26-30 2023
+- Modern Linux Command Line Tools
+  - [Dotnet Day Franken](https://dotnet-day-franken.de/2023/02/08/140-5-2-3-2/#more-1085), Apr 29 2023
+
 ## 2022
 
 - Modern Linux Command Line Tools
