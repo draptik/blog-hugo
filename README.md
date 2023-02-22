@@ -13,6 +13,8 @@
   - in top pane: chmod 744 posts/new-post.md (otherwise the post is not editable on host system)
   - build: `hugo`
 - DEPLOY:
+  - bottom right pane:
+    - run `hugo` command (if not done previously). I normally forget this step when just updating the 'talks' section..
   - bottom left pane:
     - `./deploy.sh` (auto-commit in `public` folder -> this is the folder that gets published)
     - git commit (this folder)
