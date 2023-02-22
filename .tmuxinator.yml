@@ -8,5 +8,6 @@ windows:
         layout: main-horizontal
         panes:
             - cd content && lc
+            - lc
             - ./run-docker-compose-server-start.sh
             - sleep 5; source run-attach-to-running-container.sh
