@@ -5,6 +5,8 @@ draft: false
 
 ## 2023
 
+- Modern Linux Command Line Tools
+  - [CloudLand](https://www.cloudland.org/), TBA
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Developer Week 2023 (DWX)](https://www.developer-week.de/programm/#/talk/von-c-zu-f-einfuhrung-in-die-funktionale-programmierung), Jun 29 2023
 - Modern Linux Command Line Tools
