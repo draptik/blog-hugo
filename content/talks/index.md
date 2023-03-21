@@ -8,15 +8,15 @@ draft: false
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Developer Week 2023 (DWX)](https://www.developer-week.de/programm/#/talk/von-c-zu-f-einfuhrung-in-die-funktionale-programmierung), Jun 29 2023
 - Modern Linux Command Line Tools
-  - [CloudLand](https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.1687298400), Jun 21 2023
+  - [CloudLand 2023](https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.1687298400), Jun 21 2023
 - Modern Linux Command Line Tools
   - [Magdeburger Developer Days 2023](https://md-devdays.de/act-details/1000050), May 10 2023
 - Von C# zu F# - Einführung in die Funktionale Programmierung (workshop with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Magdeburger Developer Days 2023](https://md-devdays.de/act-details/1000052), May 8 2023
 - Modern Linux Command Line Tools
-  - [MATHEMA Campus TODO](TODO), May 6 2023
+  - [MATHEMA Campus 2023 TODO](TODO), May 6 2023
 - Modern Linux Command Line Tools
-  - [Dotnet Day Franken](https://dotnet-day-franken.de/140-5-2-3-2/#more-1085), Apr 29 2023
+  - [Dotnet Day Franken 2023](https://dotnet-day-franken.de/140-5-2-3-2/#more-1085), Apr 29 2023
 
 ## 2022
 
