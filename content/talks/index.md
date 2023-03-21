@@ -10,13 +10,13 @@ draft: false
 - Modern Linux Command Line Tools
   - [CloudLand](https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.1687298400), Jun 21 2023
 - Modern Linux Command Line Tools
-  - [Magdeburger Developer Days 2023]([TODO](https://md-devdays.de/act-details/1000050)), May 10 2023
+  - [Magdeburger Developer Days 2023](https://md-devdays.de/act-details/1000050), May 10 2023
 - Von C# zu F# - Einführung in die Funktionale Programmierung (workshop with [Martin Grotz](https://twitter.com/mobilgroma))
-  - [Magdeburger Developer Days 2023]([TODO](https://md-devdays.de/act-details/1000052)), May 8 2023
+  - [Magdeburger Developer Days 2023](https://md-devdays.de/act-details/1000052), May 8 2023
 - Modern Linux Command Line Tools
   - [MATHEMA Campus TODO](TODO), May 6 2023
 - Modern Linux Command Line Tools
-  - [Dotnet Day Franken](https://dotnet-day-franken.de/2023/02/08/140-5-2-3-2/#more-1085), Apr 29 2023
+  - [Dotnet Day Franken](https://dotnet-day-franken.de/140-5-2-3-2/#more-1085), Apr 29 2023
 
 ## 2022
 
