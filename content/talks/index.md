@@ -16,7 +16,8 @@ draft: false
 - Modern Linux Command Line Tools
   - [MATHEMA Campus 2023 TODO](TODO), May 6 2023
 - Modern Linux Command Line Tools
-  - [Dotnet Day Franken 2023](https://dotnet-day-franken.de/140-5-2-3-2/#more-1085), Apr 29 2023
+  - [Dotnet Day Franken 2023](https://dotnet-day-franken.de/140-5-2-3-2/#more-1085), Apr 29 2023 ([slides](https://draptik.github.io/2023-04-dotnetdayfranken-modern-linux-cli-tools))
+  - 2nd place in session-voting 😳
 
 ## 2022
 
