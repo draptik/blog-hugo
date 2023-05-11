@@ -6,18 +6,20 @@ draft: false
 ## 2023
 
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
+  - IT-Tage Frankfurt 2023, Dec 11-14 2023
+- Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Developer Week 2023 (DWX)](https://www.developer-week.de/programm/#/talk/von-c-zu-f-einfuhrung-in-die-funktionale-programmierung), Jun 29 2023
 - Modern Linux Command Line Tools
-  - [CloudLand 2023](https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.1687298400), Jun 21 2023
+  - [CloudLand 2023](https://web.archive.org/web/20230511130825/https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.1687298400), Jun 21 2023
 - Modern Linux Command Line Tools
-  - [Magdeburger Developer Days 2023](https://md-devdays.de/act-details/1000050), May 10 2023
+  - [Magdeburger Developer Days 2023](https://web.archive.org/web/20230511130431/https://md-devdays.de/act-details/1000050), May 10 2023 ([slides](https://draptik.github.io/2023-05-magdeburger-devdays-modern-linux-cli-tools))
 - Von C# zu F# - Einführung in die Funktionale Programmierung (workshop with [Martin Grotz](https://twitter.com/mobilgroma))
-  - [Magdeburger Developer Days 2023](https://md-devdays.de/act-details/1000052), May 8 2023
+  - [Magdeburger Developer Days 2023](https://web.archive.org/web/20230511125052/https://md-devdays.de/act-details/1000052), May 8 2023 ([slides](https://mathema-gmbh.github.io/2023-05-magdeburger-devdays-fp-csharp-to-fsharp))
 - Modern Linux Command Line Tools
-  - [MATHEMA Campus 2023 TODO](TODO), May 6 2023
-- Modern Linux Command Line Tools
-  - [Dotnet Day Franken 2023](https://dotnet-day-franken.de/140-5-2-3-2/#more-1085), Apr 29 2023 ([slides](https://draptik.github.io/2023-04-dotnetdayfranken-modern-linux-cli-tools))
-  - 2nd place in session-voting 😳
+  - [MATHEMA Campus 2023](https://web.archive.org/web/20230511124838/https://mathema.de/programm), May 6 2023
+- Modern Linux Command Line Tools ([slides](https://draptik.github.io/2023-05-mathemacampus-modern-linux-cli-tools))
+  - [Dotnet Day Franken 2023](https://web.archive.org/web/20230511124528/https://dotnet-day-franken.de/140-5-2-3-2/), Apr 29 2023 ([slides](https://draptik.github.io/2023-04-dotnetdayfranken-modern-linux-cli-tools))
+  - 2nd place in session-voting 😳 🙏
 
 ## 2022
 
