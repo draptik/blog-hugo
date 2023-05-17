@@ -6,7 +6,7 @@ draft: false
 ## 2023
 
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
-  - IT-Tage Frankfurt 2023, Dec 11-14 2023
+  - [IT-Tage Frankfurt 2023](https://www.ittage.informatik-aktuell.de/programm/2023/von-c-sharp-zu-f-sharp-einfuehrung-in-die-funktionale-programmierung.html), Dec 11-14 2023
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Developer Week 2023 (DWX)](https://www.developer-week.de/programm/#/talk/von-c-zu-f-einfuhrung-in-die-funktionale-programmierung), Jun 29 2023
 - Modern Linux Command Line Tools
