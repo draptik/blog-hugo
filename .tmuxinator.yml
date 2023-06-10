@@ -11,3 +11,6 @@ windows:
             - lc
             - ./run-docker-compose-server-start.sh
             - sleep 5; source run-attach-to-running-container.sh
+    - docs:
+        panes:
+            - bat README.md
