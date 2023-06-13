@@ -24,7 +24,7 @@
 - `./start-blog.sh` Starts tmux
 - on host system, edit `content/talks`
 - in docker window (bottom-right in tmux): `hugo` to build
-- on host system: `./deploy.sh`
+- on host system (bottom-left in tmux): `./deploy.sh`
 - git commit and push when happy.
 
 # Usage (pre-docker - outdated)
