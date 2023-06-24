@@ -16,7 +16,7 @@ draft: false
 - Modern Linux Command Line Tools
   - [CloudLand 2023](https://web.archive.org/web/20230511130825/https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.1687298400), Jun 21 2023 ([slides](https://draptik.github.io/2023-06-cloudland-modern-linux-cli-tools/))
 - Fehlerbehandlung Meistern: .NET, Domain-Driven Design & Funktionale Programmierung (online)
-  - [My Coding Zone (by Gregor Biswanger)](https://www.meetup.com/de-DE/my-coding-zone/events/294107025/), Jun 16 2023
+  - [My Coding Zone (by Gregor Biswanger)](https://web.archive.org/web/20230624012352/https://www.meetup.com/de-DE/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmy-coding-zone%2Fevents%2F294107025), Jun 16 2023
 - Modern Linux Command Line Tools
   - [Magdeburger Developer Days 2023](https://web.archive.org/web/20230511130431/https://md-devdays.de/act-details/1000050), May 10 2023 ([slides](https://draptik.github.io/2023-05-magdeburger-devdays-modern-linux-cli-tools))
 - Von C# zu F# - Einführung in die Funktionale Programmierung (workshop with [Martin Grotz](https://twitter.com/mobilgroma))
