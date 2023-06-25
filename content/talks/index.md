@@ -12,7 +12,7 @@ draft: false
   - [Developer Week 2023 (DWX)](https://www.developer-week.de/programm/#/talk/von-c-zu-f-einfuhrung-in-die-funktionale-programmierung), Jun 29 2023 ([slides](https://mathema-gmbh.github.io/2023-06-dwx-fp-csharp-to-fsharp/1))
 - Modern Linux Command Line Tools
   - [SoCraTes Day Franken 2023](https://socrates-day-franken.de/), Jun 26 2023
-    ([slides](https://draptik.github.io/2023-06-socrates-day-franken-cloudland-modern-linux-cli-tools/))
+    ([slides](https://draptik.github.io/2023-06-socrates-day-franken-modern-linux-cli-tools/))
 - Modern Linux Command Line Tools
   - [CloudLand 2023](https://web.archive.org/web/20230511130825/https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.1687298400), Jun 21 2023 ([slides](https://draptik.github.io/2023-06-cloudland-modern-linux-cli-tools/))
 - Fehlerbehandlung Meistern: .NET, Domain-Driven Design & Funktionale Programmierung (online)
