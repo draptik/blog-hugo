@@ -8,6 +8,8 @@ draft: false
 - Von C# zu F# - Einführung in die Funktionale Programmierung (1 day workshop with [Martin Grotz](https://twitter.com/mobilgroma))
   - [IT-Tage Frankfurt 2023](https://www.ittage.informatik-aktuell.de/programm/2023/von-c-sharp-zu-f-sharp-einfuehrung-in-die-funktionale-programmierung.html), Dec 11 2023
   - [IT-Tage Frankfurt 2023 💾](https://web.archive.org/web/20230613204853/https://www.ittage.informatik-aktuell.de/programm/2023/von-c-sharp-zu-f-sharp-einfuehrung-in-die-funktionale-programmierung.html), Dec 11 2023
+- Modern Linux Command Line Tools
+  - [Digital Craftsmanship Nordoberpfalz](https://www.meetup.com/de-DE/digital-craftsmanship-nordoberpfalz/events/291863090/), Oct 17 2023
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Developer Week 2023 (DWX) 💾](https://web.archive.org/web/20230629201754/https://www.developer-week.de/programm/#/talk/von-c-zu-f-einfuhrung-in-die-funktionale-programmierung), Jun 29 2023 ([slides](https://mathema-gmbh.github.io/2023-06-dwx-fp-csharp-to-fsharp/1))
 - Modern Linux Command Line Tools
