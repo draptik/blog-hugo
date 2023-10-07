@@ -13,6 +13,10 @@ draft: false
 - Modern Linux Command Line Tools
   - [Digital Craftsmanship Nordoberpfalz](https://www.meetup.com/de-DE/digital-craftsmanship-nordoberpfalz/events/291863090/), Oct 17 2023
 - Modern Linux Command Line Tools
+  - [DevOps Camp 2023 (Nürnberg)](https://devops-camp.de/), Oct 07 2023 ([slides]( https://draptik.github.io/2023-10-devops-camp-modern-linux-cli-tools/))
+- Modern Linux Command Line Tools
+  - [KanDDDinsky OpenSpace (Berlin)](https://kandddinsky.de/), Oct 06 2023 ([slides](https://draptik.github.io/2023-10-kandddinsky-openspace-modern-linux-cli-tools/))
+- Modern Linux Command Line Tools
   - [SoCraTes Austria - Linz](https://socrates-conference.at/), Sep 22 2023 ([slides](https://draptik.github.io/2023-09-socrates-day-at-modern-linux-cli-tools/))
 - Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
   - [Developer Week 2023 (DWX) 💾](https://web.archive.org/web/20230629201754/https://www.developer-week.de/programm/#/talk/von-c-zu-f-einfuhrung-in-die-funktionale-programmierung), Jun 29 2023 ([slides](https://mathema-gmbh.github.io/2023-06-dwx-fp-csharp-to-fsharp/1))
