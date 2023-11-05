@@ -9,7 +9,7 @@ draft: false
   - [IT-Tage Frankfurt 2023](https://www.ittage.informatik-aktuell.de/programm/2023/von-c-sharp-zu-f-sharp-einfuehrung-in-die-funktionale-programmierung.html), Dec 11 2023
   - [IT-Tage Frankfurt 2023 💾](https://web.archive.org/web/20230613204853/https://www.ittage.informatik-aktuell.de/programm/2023/von-c-sharp-zu-f-sharp-einfuehrung-in-die-funktionale-programmierung.html), Dec 11 2023
 - Modern Linux Command Line Tools
-  - [W-JAX 2023 (Munich)](https://jax.de/devops-continuous-delivery/modern-linux-cli-tools/), Nov 07 2023
+  - [W-JAX 2023 (Munich)](https://jax.de/devops-continuous-delivery/modern-linux-cli-tools/), Nov 07 2023 ([slides](https://draptik.github.io/2023-11-wjax-modern-linux-cli-tools/))
 - Modern Linux Command Line Tools
   - [Digital Craftsmanship Nordoberpfalz](https://www.meetup.com/de-DE/digital-craftsmanship-nordoberpfalz/events/291863090/), Oct 17 2023 ([slides](https://draptik.github.io/2023-10-digital-craftsmanship-nordoberpfalz-modern-linux-cli-tools/))
 - Modern Linux Command Line Tools
