@@ -3,6 +3,11 @@ title: "Upcoming & Previous Talks"
 draft: false
 ---
 
+## 2024
+
+- Modern Linux Command Line Tools
+  - [Code Days 2024 (Munich)](https://www.code-days.de/code-days-2024), Feb 01 2024
+
 ## 2023
 
 - Von C# zu F# - Einführung in die Funktionale Programmierung (1 day workshop with [Martin Grotz](https://twitter.com/mobilgroma))
