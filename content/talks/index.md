@@ -11,7 +11,7 @@ draft: false
 ## 2023
 
 - Von C# zu F# - Einführung in die Funktionale Programmierung (1 day workshop with [Martin Grotz](https://twitter.com/mobilgroma))
-  - [IT-Tage Frankfurt 2023](https://www.ittage.informatik-aktuell.de/programm/2023/von-c-sharp-zu-f-sharp-einfuehrung-in-die-funktionale-programmierung.html), Dec 11 2023
+  - [IT-Tage Frankfurt 2023](https://www.ittage.informatik-aktuell.de/programm/2023/von-c-sharp-zu-f-sharp-einfuehrung-in-die-funktionale-programmierung.html), Dec 11 2023 ([slides](https://mathema-gmbh.github.io/2023-12-it-tage-fp-intro-csharp-fsharp), [code](https://github.com/MATHEMA-GmbH/2023-fp-intro-csharp-fsharp/tree/it-tage-workshop))
   - [IT-Tage Frankfurt 2023 💾](https://web.archive.org/web/20230613204853/https://www.ittage.informatik-aktuell.de/programm/2023/von-c-sharp-zu-f-sharp-einfuehrung-in-die-funktionale-programmierung.html), Dec 11 2023
 - Modern Linux Command Line Tools
   - [W-JAX 2023 (Munich)](https://jax.de/devops-continuous-delivery/modern-linux-cli-tools/), Nov 07 2023 ([slides](https://draptik.github.io/2023-11-wjax-modern-linux-cli-tools/))
