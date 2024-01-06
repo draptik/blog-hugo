@@ -23,6 +23,7 @@ In the past I've also spent some time in the field of biomechanics. If you're bo
 ## Contact me
 
 - [@drechsler on twitter](https://twitter.com/drechsler)
+- [@drechsler on mastodon](https://floss.social/@drechsler)
 - EMail: blog at pdrechsler dot de
 
 ## About this blog
