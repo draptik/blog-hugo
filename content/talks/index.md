@@ -8,7 +8,7 @@ draft: false
 - Modern Linux Command Line Tools
   - [Advanced Developers Conference 2024 (Regensburg)](https://adc.ms/24/Session), May 06 2024
 - Modern Linux Command Line Tools
-  - [Code Days 2024 (Munich)](https://www.code-days.de/code-days-2024), Feb 01 2024
+  - [Code Days 2024 (Munich)](https://www.code-days.de/code-days-2024), Feb 01 2024 ([slides](https://draptik.github.io/2024-01-code-days-modern-linux-cli-tools/1))
 
 ## 2023
 
