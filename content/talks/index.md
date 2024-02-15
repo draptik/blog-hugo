@@ -5,6 +5,8 @@ draft: false
 
 ## 2024
 
+- Wir testen. Aber testen wir auch gut genug?
+  - [DWX 2024 (Nürnberg)](https://www.developer-week.de/programm2024/#/talk/wir-testen-aber-testen-wir-auch-gut-genug), Jul 4 2024
 - Modern Linux Command Line Tools
   - [Advanced Developers Conference 2024 (Regensburg)](https://adc.ms/24/Session), May 06 2024
 - Modern Linux Command Line Tools
