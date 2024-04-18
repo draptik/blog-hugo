@@ -14,7 +14,7 @@ draft: false
 - Modern Linux Command Line Tools
   - [Advanced Developers Conference 2024 (Regensburg)](https://adc.ms/24/Session), May 06 2024
 - Revitalizing Legacy Code: Approval Testing Unleashed
-  - [MATHEMA Campus 2024 (Erlangen)](https://www.mathema.de/events/mathema-campus), Apr 12, 2024
+  - [MATHEMA Campus 2024 (Erlangen)](https://www.mathema.de/events/mathema-campus), Apr 12, 2024 ([slides /w link to sample code](https://draptik.github.io/2024-4-mathemacampus-approval-testing/1))
 - Modern Linux Command Line Tools
   - [Code Days 2024 (Munich)](https://www.code-days.de/code-days-2024), Feb 01 2024 ([slides](https://draptik.github.io/2024-01-code-days-modern-linux-cli-tools/1))
 
