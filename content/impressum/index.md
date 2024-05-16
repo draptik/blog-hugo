@@ -37,17 +37,5 @@ Github
 
 Diese Website ist bei Github gehostet. Weitere Details finden Sie hier https://help.github.com/articles/github-privacy-statement/ und hier https://help.github.com/articles/global-privacy-practices/.
 
-*Anmerkung: Dies ist eine statische Webseite. Bis auf Google Analytics (s.u.) und Disqus (s.u.) werden keine Daten erhoben.*
-
-Google Analytics
-
-Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (''Google''). Google Analytics verwendet sog. ''Cookies'', Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten der Google in Verbindung bringen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
-
-Disqus Kommentarsystem
-
-Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco/USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter, Yahoo, Google und OpenID anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter www.disqus.com.
-
-Ihre Daten werden von Disqus verarbeitet und auf deren System gespeichert. Für die Erhebung, Verarbeitung und Nutzung der betreffenden Daten gelten die Nutzungsbedingungen und Datenschutzhinweise von Disqus, zu finden unter http://docs.disqus.com/help/30/ und http://docs.disqus.com/help/29/. Wenn Sie sich über Ihren Facebook-, Twitter-, Yahoo-, Google oder OpenID-Account anmelden, werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters.
-
 Website Impressum erstellt in Anlehnung an impressum-generator.de von der Kanzlei Hasselbach.
 

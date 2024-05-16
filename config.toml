@@ -4,10 +4,8 @@ title = "draptik"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
-disqusShortname = "draptik"
-googleAnalytics = "UA-65991503-1"
 summarylength = 30
-paginate = 5
+paginate = 15
 
 [params]
     author = "Patrick Drechsler"
