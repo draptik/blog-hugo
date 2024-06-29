@@ -7,6 +7,8 @@ draft: false
 
 - Wir testen. Aber testen wir auch gut genug?
   - [DWX 2024 (Nürnberg)](https://www.developer-week.de/programm2024/#/talk/wir-testen-aber-testen-wir-auch-gut-genug), Jul 4 2024
+- Mutation Testing & 100% Code Coverage (Session with [Martin Grandrath](https://www.linkedin.com/in/martin-grandrath/))
+  - [SoCraTes Day Franken (Nürnberg)](https://socrates-day-franken.de), Jun 29 2024
 - Von C# zu F# - Einführung in die Funktionale Programmierung (session with [Martin Grotz](https://www.linkedin.com/in/martin-grotz-6780332b5/))
   - [Magdeburger Developer Days 2024](https://md-devdays.de/act-details/1000350), May 15 2024 ([slides](https://draptik.github.io/2024-05-md-dev-days-fp-intro-csharp-fsharp/1))
 - Modern Linux Command Line Tools (session with [Sandra Parsick](https://www.linkedin.com/in/sandra-parsick/))
