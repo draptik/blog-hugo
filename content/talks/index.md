@@ -6,7 +6,9 @@ draft: false
 ## 2024
 
 - Wir testen. Aber testen wir auch gut genug?
-  - [DWX 2024 (Nürnberg)](https://www.developer-week.de/programm2024/#/talk/wir-testen-aber-testen-wir-auch-gut-genug), Jul 4 2024
+  - [.NET Developer Conference (Köln)](https://www.dotnet-developer-conference.de/programm/), Nov 26 2024
+- Wir testen. Aber testen wir auch gut genug?
+  - [DWX 2024 (Nürnberg)](https://www.developer-week.de/programm2024/#/talk/wir-testen-aber-testen-wir-auch-gut-genug), Jul 4 2024 ([slides](https://draptik.github.io/2024-07-dwx24-mutation-testing/1))
 - Mutation Testing & 100% Code Coverage (Session with [Martin Grandrath](https://www.linkedin.com/in/martin-grandrath/))
   - [SoCraTes Day Franken (Nürnberg)](https://socrates-day-franken.de), Jun 29 2024
 - Von C# zu F# - Einführung in die Funktionale Programmierung (session with [Martin Grotz](https://www.linkedin.com/in/martin-grotz-6780332b5/))
