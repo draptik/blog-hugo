@@ -8,7 +8,7 @@ draft: false
 - Wir testen. Aber testen wir auch gut genug?
   - [.NET Developer Conference (Köln)](https://www.dotnet-developer-conference.de/programm/), Nov 26 2024
 - Revitalizing Legacy Code: Approval Testing Unleashed
-  - [Softwerskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg/events/302057824/), Sep 12 2024
+  - [Softwerkskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg/events/302057824/), Sep 12 2024
 - Wir testen. Aber testen wir auch gut genug?
   - [DWX 2024 (Nürnberg)](https://www.developer-week.de/programm2024/#/talk/wir-testen-aber-testen-wir-auch-gut-genug), Jul 4 2024 ([slides](https://draptik.github.io/2024-07-dwx24-mutation-testing/1))
 - Mutation Testing & 100% Code Coverage (Session with [Martin Grandrath](https://www.linkedin.com/in/martin-grandrath/))
