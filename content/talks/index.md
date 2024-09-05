@@ -8,7 +8,7 @@ draft: false
 - Wir testen. Aber testen wir auch gut genug?
   - [.NET Developer Conference (Köln)](https://www.dotnet-developer-conference.de/programm/), Nov 26 2024
 - Revitalizing Legacy Code: Approval Testing Unleashed
-  - [Softwerkskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg/events/302057824/), Sep 12 2024
+  - [Softwerkskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg/events/302057824/), Sep 12 2024 ([slides](https://draptik.github.io/2024-09-swk-nbg-approval-testing/1))
 - Wir testen. Aber testen wir auch gut genug?
   - [DWX 2024 (Nürnberg)](https://www.developer-week.de/programm2024/#/talk/wir-testen-aber-testen-wir-auch-gut-genug), Jul 4 2024 ([slides](https://draptik.github.io/2024-07-dwx24-mutation-testing/1))
 - Mutation Testing & 100% Code Coverage (Session with [Martin Grandrath](https://www.linkedin.com/in/martin-grandrath/))
@@ -40,33 +40,7 @@ draft: false
 - Modern Linux Command Line Tools
   - [KanDDDinsky OpenSpace (Berlin)](https://kandddinsky.de/), Oct 06 2023 ([slides](https://draptik.github.io/2023-10-kandddinsky-openspace-modern-linux-cli-tools/))
 - Modern Linux Command Line Tools
-  - [SoCraTes Austria - Linz](https://socrates-conference.at/), Sep 22 2023 ([slides](https://draptik.github.io/2023-09-socrates-day-at-modern-linux-cli-tools/))
-- Von C# zu F# - Einführung in die Funktionale Programmierung (presentation with [Martin Grotz](https://twitter.com/mobilgroma))
-  - [Developer Week 2023 (DWX) 💾](https://web.archive.org/web/20230629201754/https://www.developer-week.de/programm/#/talk/von-c-zu-f-einfuhrung-in-die-funktionale-programmierung), Jun 29 2023 ([slides](https://mathema-gmbh.github.io/2023-06-dwx-fp-csharp-to-fsharp/1))
-- Modern Linux Command Line Tools
-  - [SoCraTes Day Franken 2023 💾](https://web.archive.org/web/20230629202658/https://socrates-day-franken.de/Home), Jun 26 2023
-    ([slides](https://draptik.github.io/2023-06-socrates-day-franken-modern-linux-cli-tools/))
-- Modern Linux Command Line Tools
-  - [CloudLand 2023 💾](https://web.archive.org/web/20230511130825/https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.1687298400), Jun 21 2023 ([slides](https://draptik.github.io/2023-06-cloudland-modern-linux-cli-tools/))
-- Fehlerbehandlung Meistern: .NET, Domain-Driven Design & Funktionale Programmierung (online)
-  - [My Coding Zone (by Gregor  Biswanger)](https://www.meetup.com/de-DE/my-coding-zone/events/294107025/), Jun 16 2023, ([youtube](https://www.youtube.com/watch?v=b4h0Zvg_0PQ))
-- Modern Linux Command Line Tools
-  - [Magdeburger Developer Days 2023 💾](https://web.archive.org/web/20230511130431/https://md-devdays.de/act-details/1000050), May 10 2023 ([slides](https://draptik.github.io/2023-05-magdeburger-devdays-modern-linux-cli-tools))
-- Von C# zu F# - Einführung in die Funktionale Programmierung (workshop with [Martin Grotz](https://twitter.com/mobilgroma))
-  - [Magdeburger Developer Days 2023 💾](https://web.archive.org/web/20230511125052/https://md-devdays.de/act-details/1000052), May 8 2023 ([slides](https://mathema-gmbh.github.io/2023-05-magdeburger-devdays-fp-csharp-to-fsharp))
-- Modern Linux Command Line Tools
-  - [MATHEMA Campus 2023 💾](https://web.archive.org/web/20230511124838/https://mathema.de/programm), May 6 2023
-- Modern Linux Command Line Tools ([slides](https://draptik.github.io/2023-05-mathemacampus-modern-linux-cli-tools))
-  - [Dotnet Day Franken 2023 💾](https://web.archive.org/web/20230511124528/https://dotnet-day-franken.de/140-5-2-3-2/), Apr 29 2023 ([slides](https://draptik.github.io/2023-04-dotnetdayfranken-modern-linux-cli-tools))
-  - 2nd place in session-voting 😳 🙏
-
-💾: Archived via [https://web.archive.org/](https://web.archive.org/)
-
-## 2022
-
-- Modern Linux Command Line Tools
-  - [DevOps Camp 2022](https://devops-camp.de), Sep 25 2022
-  - Achievement unlocked: 2nd place in session-voting ;-)
+  - [SoCraTes Austria - Linz](https://socrates-conference.at/), Sep 22 2023 ([slides](https://draptik.github.io/2024-09-swk-nbg-approval-testing/1))
 
 ## 2021
 
