@@ -7,6 +7,12 @@ draft: false
 
 - Wir testen. Aber testen wir auch gut genug?
   - [.NET Developer Conference (Köln)](https://www.dotnet-developer-conference.de/programm/), Nov 26 2024
+- IdeaVim (lightning talk)
+  - [SoCraTes AT (Linz)](https://socrates-conference.at/) Sep 21 2024
+- Approval Testing
+  - [SoCraTes AT (Linz)](https://socrates-conference.at/) Sep 21 2024
+- Mutation Testing
+  - [SoCraTes AT (Linz)](https://socrates-conference.at/) Sep 20 2024
 - Revitalizing Legacy Code: Approval Testing Unleashed
   - [Softwerkskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg/events/302057824/), Sep 12 2024 ([slides](https://draptik.github.io/2024-09-swk-nbg-approval-testing/1))
 - Wir testen. Aber testen wir auch gut genug?
