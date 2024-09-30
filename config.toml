@@ -27,7 +27,7 @@ paginate = 15
 ## Social Accounts
 [params.social]
     github = "draptik"
-    linkedin = "patrick-drechsler-985a2911"
+    linkedin = "patrick-drechsler-draptik"
     email = "blog@pdrechsler.de"
 
 [[menu.main]]
