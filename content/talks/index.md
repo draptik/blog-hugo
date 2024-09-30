@@ -7,6 +7,12 @@ draft: false
 
 - Wir testen. Aber testen wir auch gut genug?
   - [.NET Developer Conference (Köln)](https://www.dotnet-developer-conference.de/programm/), Nov 26 2024
+- IdeaVim
+  - [Seneca 2024 (Erlangen)](https://seneca.camp/) Sep 28 2024
+- Approval Testing
+  - [Seneca 2024 (Erlangen)](https://seneca.camp/) Sep 28 2024 ([slides](https://draptik.github.io/2024-09-seneca-approval-testing/1))
+- Mutation Testing
+  - [Seneca 2024 (Erlangen)](https://seneca.camp/) Sep 28 2024 ([slides](https://draptik.github.io/2024-09-seneca-mutation-testing/1))
 - IdeaVim (lightning talk)
   - [SoCraTes AT (Linz)](https://socrates-conference.at/) Sep 21 2024
 - Approval Testing
