@@ -7,6 +7,12 @@ draft: false
 
 - Wir testen. Aber testen wir auch gut genug?
   - [.NET Developer Conference (Köln)](https://www.dotnet-developer-conference.de/programm/), Nov 26 2024
+- Mutation Testing
+  - [DevOps Camp 2024 (Nürnberg)](https://devops-camp.de/) Oct 12 2024
+- IdeaVim
+  - [DevOps Camp 2024 (Nürnberg)](https://devops-camp.de/) Oct 12 2024
+- Mutation Testing
+  - [Seneca 2024 (Erlangen)](https://seneca.camp/) Sep 28 2024 ([slides](https://draptik.github.io/2024-09-seneca-mutation-testing/1))
 - IdeaVim
   - [Seneca 2024 (Erlangen)](https://seneca.camp/) Sep 28 2024
 - Approval Testing
@@ -119,10 +125,10 @@ draft: false
 - Railway Oriented Programming - Komplexe Orchestrierung wartbar machen
   - [Developer Week 2018](https://www.developer-week.de/programm/#/talk/railway-oriented-programming-komplexe-orchestrierung-wartbar-machen), Jun. 25 2018 [(video)](https://vimeo.com/279232246)
 - Value objects on steroids
-  - [Developer Week 2018](https://www.developer-week.de/programm/#/talk/value-objects-on-steroids), Jun. 25 2018 [(video)](https://vimeo.com/278291038) 
+  - [Developer Week 2018](https://www.developer-week.de/programm/#/talk/value-objects-on-steroids), Jun. 25 2018 [(video)](https://vimeo.com/278291038)
 - Railway Oriented Programming - Komplexe Orchestrierung wartbar machen
   - [Karlsruher Entwicklertag 2018](https://entwicklertag.de/karlsruhe/2018/), Jun. 21 2018
-- Railway Oriented Programming - Komplexe Orchestrierung wartbar machen 
+- Railway Oriented Programming - Komplexe Orchestrierung wartbar machen
   - [MATHEMA Campus 2018](https://www.mathema.de/veranstaltungen/mathema-campus), Apr. 21 2018
 - Funktionale Programmierung für OO-Programmierer
   - [MATHEMA Campus 2018](https://www.mathema.de/veranstaltungen/mathema-campus), Apr. 20 2018
