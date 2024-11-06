@@ -6,7 +6,7 @@ draft: false
 ## 2024
 
 - Wir testen. Aber testen wir auch gut genug?
-  - [.NET Developer Conference (Köln)](https://www.dotnet-developer-conference.de/programm/), Nov 26 2024
+  - [.NET Developer Conference (Köln)](https://www.dotnet-developer-conference.de/programm/), Nov 26 2024 ([slides](https://draptik.github.io/2024-11-ddc-mutation-testing))
 - IdeaVim
   - [SoCraTes Crete](https://socrates-crete.org) Oct 27 2024
 - Approval Testing
