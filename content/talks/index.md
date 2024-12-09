@@ -3,6 +3,11 @@ title: "Upcoming & Previous Talks"
 draft: false
 ---
 
+## 2025
+
+- Revitalizing Legacy Code: Approval Testing Unleashed
+  - [Digital Crafts Day (Weiden)](https://dc-nordoberpfalz.de/DigitalCraftsDay/2025), Apr 04 2025
+
 ## 2024
 
 - Wir testen. Aber testen wir auch gut genug?
