@@ -5,6 +5,8 @@ draft: false
 
 ## 2025
 
+- Mutantenjagd im Code: Wie wir mit Mutation Testing bessere Tests schreiben
+  - [CodeBuzz 2025 (Leipzig)](https://www.codebuzz.de/), Jun 5, 2025
 - Revitalizing Legacy Code: Approval Testing Unleashed
   - [.NET Day Franken 2025 (Nürnberg)](https://dotnet-day-franken.de), May 10 2025
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
