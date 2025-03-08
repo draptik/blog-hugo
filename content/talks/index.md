@@ -7,6 +7,10 @@ draft: false
 
 - Mutantenjagd im Code: Wie wir mit Mutation Testing bessere Tests schreiben
   - [CodeBuzz 2025 (Leipzig)](https://www.codebuzz.de/), Jun 5, 2025
+- Wir testen. Aber testen wir auch gut genug?
+  - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000545), May 13 2025
+- Von C# zu F# - Einführung in die Funktionale Programmierung (workshop with Martin Grotz)
+  - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000542), May 12 2025
 - Revitalizing Legacy Code: Approval Testing Unleashed
   - [.NET Day Franken 2025 (Nürnberg)](https://dotnet-day-franken.de), May 10 2025
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
