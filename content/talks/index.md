@@ -18,7 +18,7 @@ draft: false
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
   - [Advanced Developer Conference (Regensburg)](https://adc.ms/25/), May 6 2025
 - Revitalizing Legacy Code: Approval Testing Unleashed
-  - [Digital Crafts Day (Weiden)](https://dc-nordoberpfalz.de/DigitalCraftsDay/2025), Apr 4 2025
+  - [Digital Crafts Day (Weiden)](https://dc-nordoberpfalz.de/DigitalCraftsDay/2025), Apr 4 2025 ([slides](https://draptik.github.io/2025-04-dcn-approval-testing))
 
 ## 2024
 
