@@ -9,6 +9,8 @@ draft: false
   - [CodeBuzz 2025 (Leipzig)](https://www.codebuzz.de/), Jun 5, 2025
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
   - [MATHEMA Campus 2025 (Erlangen)](https://mathema.de/mathema/events/mathema-campus), May 24 2025
+- Modern Linux CLI Tools
+  - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000541), May 14 2025
 - Wir testen. Aber testen wir auch gut genug?
   - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000545), May 13 2025
 - Revitalizing Legacy Code: Approval Testing Unleashed
