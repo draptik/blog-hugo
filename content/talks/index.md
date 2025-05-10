@@ -14,7 +14,7 @@ draft: false
 - Wir testen. Aber testen wir auch gut genug?
   - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000545), May 13 2025
 - Revitalizing Legacy Code: Approval Testing Unleashed
-  - [.NET Day Franken 2025 (Nürnberg)](https://dotnet-day-franken.de), May 10 2025
+  - [.NET Day Franken 2025 (Nürnberg)](https://dotnet-day-franken.de), May 10 2025 ([slides](https://draptik.github.io/2025-05-ddf-approval-testing/))
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
   - [Advanced Developer Conference (Regensburg)](https://adc.ms/25/), May 6 2025 ([slides](https://draptik.github.io/2025-05-adc-property-based-testing/))
 - Revitalizing Legacy Code: Approval Testing Unleashed
