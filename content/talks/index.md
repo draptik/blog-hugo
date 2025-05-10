@@ -10,9 +10,9 @@ draft: false
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
   - [MATHEMA Campus 2025 (Erlangen)](https://mathema.de/mathema/events/mathema-campus), May 24 2025
 - Modern Linux CLI Tools
-  - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000541), May 14 2025
+  - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000541), May 14 2025 ([slides](https://draptik.github.io/2025-05-md-devdays-modern-linux-cli-tools/))
 - Wir testen. Aber testen wir auch gut genug?
-  - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000545), May 13 2025
+  - [Magdeburger Developer Days 2025](https://www.md-devdays.de/act-details/1000545), May 13 2025 ([slides](https://draptik.github.io/2025-05-md-devdays-mutation-testing/))
 - Revitalizing Legacy Code: Approval Testing Unleashed
   - [.NET Day Franken 2025 (Nürnberg)](https://dotnet-day-franken.de), May 10 2025 ([slides](https://draptik.github.io/2025-05-ddf-approval-testing/))
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
