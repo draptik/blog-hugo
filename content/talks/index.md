@@ -8,7 +8,7 @@ draft: false
 - Mutantenjagd im Code: Wie wir mit Mutation Testing bessere Tests schreiben
   - [CodeBuzz 2025 (Leipzig)](https://www.codebuzz.de/), Jun 5, 2025
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
-  - [MATHEMA Campus 2025 (Erlangen)](https://mathema.de/mathema/events/mathema-campus), May 24 2025
+  - [MATHEMA Campus 2025 (Erlangen)](https://mathema.de/mathema/events/mathema-campus), May 24 2025 ([slides](https://draptik.github.io/2025-05-mathema-campus-property-based-testing/))
 - Modern Linux CLI Tools
   - [Software Engineering Camp (SWEC), Fürth](https://www.swe-camp.de/), May 17 2025 ([slides](https://draptik.github.io/2025-05-swec-modern-linux-cli-tools/))
 - Property-Based Testing in .NET
