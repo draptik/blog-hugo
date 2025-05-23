@@ -7,6 +7,8 @@ draft: false
 
 - Mutantenjagd im Code: Wie wir mit Mutation Testing bessere Tests schreiben
   - [CodeBuzz 2025 (Leipzig)](https://www.codebuzz.de/), Jun 5, 2025
+- Modern Linux CLI Tools
+  - [MATHEMA Campus 2025 (Erlangen)](https://mathema.de/mathema/events/mathema-campus), May 24 2025 ([slides](https://draptik.github.io/2025-05-mathema-campus-modern-linux-cli-tools/))
 - Verborgene Fehler aufdecken: Property-Based Testing in .NET
   - [MATHEMA Campus 2025 (Erlangen)](https://mathema.de/mathema/events/mathema-campus), May 24 2025 ([slides](https://draptik.github.io/2025-05-mathema-campus-property-based-testing/))
 - Modern Linux CLI Tools
