@@ -5,6 +5,8 @@ draft: false
 
 ## 2025
 
+- Modern Linux CLI Tools
+  - [CodeBuzz 2025 (Leipzig)](https://www.codebuzz.de/), Jun 5, 2025 ([slides](https://draptik.github.io/2025-06-codebuzz-modern-linux-cli-tools/))
 - Mutantenjagd im Code: Wie wir mit Mutation Testing bessere Tests schreiben
   - [CodeBuzz 2025 (Leipzig)](https://www.codebuzz.de/), Jun 5, 2025 ([slides](https://draptik.github.io/2025-06-codebuzz-mutation-testing/))
 - Modern Linux CLI Tools
