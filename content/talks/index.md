@@ -5,6 +5,8 @@ draft: false
 
 ## 2025
 
+- Property-Based Testing
+  - [SoCraTes Day Franken 2025](hhttps://socrates-day-franken.de), Jun 21 2025 ([slides](https://draptik.github.io/2025-06-socrates-day-franken-pbt/))
 - Modern Linux CLI Tools
   - [CodeBuzz 2025 (Leipzig)](https://www.codebuzz.de/), Jun 5, 2025 ([slides](https://draptik.github.io/2025-06-codebuzz-modern-linux-cli-tools/))
 - Mutantenjagd im Code: Wie wir mit Mutation Testing bessere Tests schreiben
