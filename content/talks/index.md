@@ -5,6 +5,12 @@ draft: false
 
 ## 2025
 
+- Approval Testing
+  - [SoCraTes (Soltau) 2025](https://www.socrates-conference.de), Jul 19 2025 ([slides](https://draptik.github.io/2025-07-socrates-de-approval-testing/))
+- Modern Linux CLI Tools
+  - [SoCraTes (Soltau) 2025](https://www.socrates-conference.de), Jul 18 2025 ([slides](https://draptik.github.io/2025-07-socrates-de-modern-linux-cli-tools/))
+- Property-Based Testing
+  - [SoCraTes (Soltau) 2025](https://www.socrates-conference.de), Jul 18 2025 ([slides](https://draptik.github.io/2025-07-socrates-de-property-based-testing/))
 - Property-Based Testing
   - [SoCraTes Day Franken 2025](hhttps://socrates-day-franken.de), Jun 21 2025 ([slides](https://draptik.github.io/2025-06-socrates-day-franken-pbt/))
 - Modern Linux CLI Tools
