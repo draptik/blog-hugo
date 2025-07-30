@@ -15,7 +15,7 @@ So whats makes this event special?
 
 ### Really diverse
 
-I don't go out much these days, so being confronted with many people enjoying different sexual and clothing choices was new to me.
+I don't go out much these days, so being exposed to many people enjoying different sexual and clothing choices was new to me.
 And what shall I say: It was a pleasure talking to all those "different" (to me!) IT nerds.
 
 There was a really strict Code-of-Conduct.
