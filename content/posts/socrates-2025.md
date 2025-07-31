@@ -15,8 +15,9 @@ So whats makes this event special?
 
 ### Really diverse
 
-I don't go out much these days, so being exposed to many people enjoying different sexual and clothing choices was new to me.
-And what shall I say: It was a pleasure talking to all those "different" (to me!) IT nerds.
+I don’t go out much these days, so being surrounded by such a beautifully diverse crowd - with so many unique styles, expressions,
+and identities - was a refreshing experience for me. And what can I say:
+it was an absolute pleasure talking to all these wonderful IT nerds who were different from me in the best ways.
 
 There was a really strict Code-of-Conduct.
 It took me a while to get used to it.
