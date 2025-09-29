@@ -5,6 +5,10 @@ draft: false
 
 ## 2025
 
+- Modern Linux CLI Tools
+  - [SoCraTes AT (Linz)](https://socrates-conference.at/), Sep 27 2025 ([slides](https://draptik.github.io/2025-09-socrates-at-modern-linux-cli-tools/))
+- My Journey to Selfhosting & Homeserver
+  - [SoCraTes AT (Linz)](https://socrates-conference.at/), Sep 26 2025 ([slides](https://draptik.github.io/2025-09-socrates-at-selfhosting/))
 - Selfhosting & Homeserver
   - [Seneca 2025 (Erlangen)](https://seneca.camp/), Sep 20 2025 ([slides](https://draptik.github.io/2025-09-seneca-selfhosting/))
 - Approval Testing
