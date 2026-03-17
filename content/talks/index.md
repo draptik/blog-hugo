@@ -3,6 +3,11 @@ title: "Upcoming & Previous Talks"
 draft: false
 ---
 
+## 2026
+
+- Von C# zu F# - Einführung in die Funktionale Programmierung (session with [Martin Grotz](https://www.linkedin.com/in/martin-grotz-6780332b5/))
+  - [Magdeburger Developer Days 2026](https://www.md-devdays.de/act-details/1000881), May 20 2026
+  
 ## 2025
 
 - Modern Linux CLI Tools
