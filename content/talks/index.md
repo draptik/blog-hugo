@@ -7,7 +7,9 @@ draft: false
 
 - Von C# zu F# - Einführung in die Funktionale Programmierung (session with [Martin Grotz](https://www.linkedin.com/in/martin-grotz-6780332b5/))
   - [Magdeburger Developer Days 2026](https://www.md-devdays.de/act-details/1000881), May 20 2026
-  
+- Von C# zu F# - Einführung in die Funktionale Programmierung
+  - [Software Engineering Camp (SWEC), Fürth](https://www.swe-camp.de/), May 9 2026 ([slides](https://draptik.github.io/2026-05-swec-fp-intro-csharp-fsharp/))
+
 ## 2025
 
 - Modern Linux CLI Tools
